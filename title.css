@@ -1,0 +1,12 @@
+body { 
+    font-style: italic;
+}
+.first {
+    outline: 1px solid black;
+    text-align: center;
+    }
+
+.menu {
+    text-align: left;
+    outline: 1px solid whitesmoke;
+}
